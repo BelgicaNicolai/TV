@@ -4,8 +4,10 @@ body {
     box-sizing: ''
 }
 .center {
-    display: flex;
-    justify-content: flex-end;
+    margin-left: 10%;
+    margin-right: 10%;
+    width: 10%;
+    justify-content:end;
     }
     .nico {
         
@@ -18,14 +20,5 @@ body {
     }
     
     
-    .vb { 
-        
-        margin-left: 50%;
-        margin-right: 50%;
-        width: 50%;
-    
-    }
 
-  
-    justify-content
     
