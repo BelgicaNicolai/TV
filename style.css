@@ -1,0 +1,31 @@
+body {
+    margin:0;
+    padding:0;
+    box-sizing: ''
+}
+.center {
+    display: flex;
+    justify-content: flex-end;
+    }
+    .nico {
+        
+        margin-left: 50%;
+        margin-right: 50%;
+        width: 50%;
+    
+    
+    
+    }
+    
+    
+    .vb { 
+        
+        margin-left: 50%;
+        margin-right: 50%;
+        width: 50%;
+    
+    }
+
+  
+    justify-content
+    
